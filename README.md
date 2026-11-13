@@ -1,1 +1,1 @@
-.
+Foi realizada a organização e a padronização do código-fonte do projeto PIM, seguindo as recomendações e orientações passadas pelo professor Alex. As alterações tiveram como objetivo deixar o projeto mais estruturado, facilitar a leitura e compreensão do código, melhorar a organização dos arquivos e tornar sua manutenção e futuras implementações mais simples e eficientes.
